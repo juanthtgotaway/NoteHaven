@@ -16,6 +16,8 @@ Along the way I learned various new concepts and new tools to add to my tool bel
 
 
 ![alt text](./assets/results%20saving.png)
+![alt text](./assets/service%20worker.png)
+![alt text](./assets/manifest.png)
 
 
 ## Table of Contents
@@ -27,9 +29,6 @@ Along the way I learned various new concepts and new tools to add to my tool bel
 -[License](#License)
 -[Questions](##Questions)
 
-
-![alt text](./assets/service%20worker.png)
-![alt text](./assets/manifest.png)
 
 
 ## Installation
